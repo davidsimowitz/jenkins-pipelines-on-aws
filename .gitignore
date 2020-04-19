@@ -1,2 +1,17 @@
 # User Credentials
 *credentials.csv
+
+# Private SSH keys
+*.csr
+*.pem
+*.key
+*.pkcs12
+*.pfx
+*.p12
+*.der
+*.cert
+*.cer
+*.crt
+*.p7b
+*.keystore
+*.crl
