@@ -38,3 +38,8 @@ Logged into Blue Ocean after installing plugin
 Create pipeline from GitHub repository
 --------------------------------------
 ![Create pipeline from GitHub repository](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-05.png)
+
+
+Set up pipeline to upload to S3 bucket static website
+-----------------------------------------------------
+![S3 bucket static website](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-06.png)
