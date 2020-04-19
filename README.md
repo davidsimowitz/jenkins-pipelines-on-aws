@@ -17,3 +17,9 @@ Set up group policies and create user
 -------------------------------------
 
 ![IAM User Permissions](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-01.png)
+
+
+Launch an Ubuntu 18.04 t2.micro instance in AWS EC2 (accessible via SSH)
+------------------------------------------------------------------------
+
+![EC2 Instance](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-02.png)
