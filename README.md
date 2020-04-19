@@ -33,3 +33,8 @@ Jenkins installed and logged into for the first time
 Logged into Blue Ocean after installing plugin
 ----------------------------------------------
 ![Logged into Blue Ocean after installing plugin](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-04.png)
+
+
+Create pipeline from GitHub repository
+---------------------------------------------
+![Create pipeline from GitHub repository](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-05.png)
