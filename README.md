@@ -43,3 +43,8 @@ Create pipeline from GitHub repository
 Set up pipeline to upload to S3 bucket static website
 -----------------------------------------------------
 ![S3 bucket static website](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-06.png)
+
+
+Add HTML linter stage in pipeline
+---------------------------------
+![Build fails at linting step](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-07.png)
