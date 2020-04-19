@@ -28,3 +28,8 @@ Launch an Ubuntu 18.04 t2.micro instance in AWS EC2 (accessible via SSH)
 Jenkins installed and logged into for the first time
 ----------------------------------------------------
 ![Jenkins initial run on server](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-03.png)
+
+
+Logged into Blue Ocean after installing plugin
+----------------------------------------------
+![Logged into Blue Ocean after installing plugin](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-04.png)
