@@ -48,3 +48,7 @@ Set up pipeline to upload to S3 bucket static website
 Add HTML linter stage in pipeline
 ---------------------------------
 ![Build fails at linting step](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-07.png)
+
+Correct invalid HTML tag to pass build
+--------------------------------------
+![Build passes after correcting invalid HTML tag](https://github.com/davidsimowitz/jenkins-pipelines-on-aws/blob/master/screenshot-08.png)
